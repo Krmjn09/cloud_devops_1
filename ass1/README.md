@@ -12,7 +12,9 @@ This is a basic calculator application built with HTML, CSS, and JavaScript.
 
 ## Version
 
-Version 1.0 - Beautiful Design Edition by [Your Name]
+
+Version 1.0 - hi i am kriti
+
 
 ## How to Use
 
