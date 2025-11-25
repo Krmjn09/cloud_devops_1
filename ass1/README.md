@@ -12,7 +12,7 @@ This is a basic calculator application built with HTML, CSS, and JavaScript.
 
 ## Version
 
-Version 1.0 - Advanced Functionality Edition by Kriti
+Version 1.0 - hello
 
 ## How to Use
 
