@@ -14,6 +14,7 @@ This is a basic calculator application built with HTML, CSS, and JavaScript.
 
 Version 1.0 - hello
 
+
 ## How to Use
 
 1. Open index.html in your browser
